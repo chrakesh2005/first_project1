@@ -1,2 +1,2 @@
-Hello dhanush , How are you?. 
+this is the folder for the session 
 # first_project1
